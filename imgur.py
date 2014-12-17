@@ -34,10 +34,10 @@ file_name, headers = urllib.request.urlretrieve(ckan['download'])
 imgur_zip = zipfile.ZipFile(file_name, 'r')
 install_steps = []
 for i in sorted(imgur_zip.namelist()):
-    step = {
-        'file':i,
-        'install_to':'GameData/Squad/Flags',
-    }
+    step = OrderedDict([
+        ('file', i),
+        ('install_to','GameData/Squad/Flags'),
+    ])
     install_steps.append(step)
 
 ckan['install'] = install_steps
