@@ -1,0 +1,665 @@
+{
+    "spec_version": 1,
+    "identifier"  : "KSPAssortedFlags",
+    "name"        : "KSP Assorted Flags",
+    "author"      : ["noaceulemans", "crzysdrs"],
+    "version"     : "0.1",
+    "abstract"    : "Installs 162 assorted flags for KSP.",
+    "ksp_version" : "any",
+    "license"     : "GPL-3.0",
+    "download"    : "http://s.imgur.com/a/rRUZp/zip",
+    "license": "CC-BY",
+    "resources" : {
+        "homepage" : "http://s.imgur.com/a/rRUZp"
+    },
+    "install": [
+        {
+            "file":"001 - Argentina.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"002 - Australia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"003 - Austria.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"004 - Bahrain.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"005 - Belgium.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"006 - Brazil.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"007 - California.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"008 - Canada.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"009 - China.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"010 - Denmark.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"011 - Estonia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"012 - EU.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"013 - Finland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"014 - France.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"015 - Germany.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"016 - Ghana.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"017 - Iceland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"018 - Ireland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"019 - Israel.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"020 - Japan.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"021 - Mexico.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"022 - Netherlands.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"023 - New Zealand.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"024 - North Korea.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"025 - Norway.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"026 - Poland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"027 - Portugal.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"028 - Russia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"029 - Slovakia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"030 - South Africa.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"031 - South Korea.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"032 - Scotland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"033 - Sweden.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"034 - Switzerland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"035 - Ukraine.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"036 - United Kingdom.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"037 - United States of America.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"038 - Wales.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"039 - KSP flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"040 - NASA flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"041 - NASA emblem-based flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"042 - NASA 1980039s logo flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"043 - European Space Agency.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"044 - Canadian Space Agency.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"045 - ROSKOSMOS - Russian Space Agency.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"046 - NATO.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"047 - SpaceX.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"048 - ISS flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"049 - NASA Ares.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"050 - NASA Constellation.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"051 - NASA Orion flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"052 - Mun Mission flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"053 - Minmus Mission flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"054 - Duna Mission flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"055 - Eve Mission flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"056 - Kerbin Space Agency modern NASA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"057 - TitleKerbin Air- and Space Agency modern NASA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"058 - Kerbin Space Agency 1980039s NASA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"059 - Kerbin Air- and Space Agency.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"060 - Kerbin Space Agency CSA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"061 - Kerbal Space Agency ESA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"062 - Kerbal Aerospace Exploration Agency JAXA style.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"063 - NOACeulemans039s United Nations of Kerbin.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"064 - Unified Korea flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"065 - USSR.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"066 - Japanese Naval Ensign.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"067 - Nazi Germany.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"068 - Confederate States of America.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"069 - LEGO Space Program.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"070 - Kalmar Union Union between Sweden Norway and Denmark .png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"071 - NZ All-Blacks.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"072 - Pirate flag - Jack Rackham.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"073 - Pirate flag - Henry Every.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"074 - Pirate flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"075 - Zheleznogorsk flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"076 - Provo Utah flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"077 - Imperial Aquila from quotWarhammer 40000quot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"078 - ISIS flag from quotArcherquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"079 - Enclave flag from quotFalloutquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"080 - New California Republic from quotFalloutquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"081 - Tunnel Snakes flag from quotFalloutquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"082 - United Citizen Federation from quotStarship Troopersquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"083 - Skyrim flag from quotThe Elder Scrolls Skyrimquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"084 - House Stark from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"085 - House Targaryen from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"086 - House Lannister from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"087 - House Baratheon from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"088 - House Greyjoy from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"089 - House Tully from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"090 - House Tyrell from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"091 - House Arryn from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"092 - House Martell from quotGame of Thronesquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"093 - United Nations Space Command from quotHaloquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"094 - United States Colonial Marines from quotAliensquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"095 - United States Colonial Marines from quotAliensquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"096 - Weyland-Yutani from quotAlienquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"097 - Weyland from quotPrometheusquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"098 - Lunar Industries from quotMoonquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"099 - RDA from quotAvatarquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"100 - RDA from quotAvatarquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"101 - Aperture Science from quotPortalquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"102 - Aperture Science from quotPortalquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"103 - Aperture Science from quotPortalquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"104 - Batman.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"105 - Aurelia from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"106 - Emmeria from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"107 - Erusea from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"108 - Estovakia from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"109 - Osea from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"110 - Ustio from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"111 - Yuktobania from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"112 - Belka from quotAce Combatquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"113 - Terran Republic from quotPlanetSide 2quot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"114 - New Conglomerate from quotPlanetSide 2quot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"115 - Vanu Sovereignty from quotPlanetSide 2quot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"116 - Rebel Alliance flag from quotStar Warsquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"117 - Empire flag from quotStar Warsquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"118 - Republic flag from quotStar Warsquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"119 - United Federation of Planets from quotStar Trekquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"120 - United Federation of Planets from quotStar Trekquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"121 - Starfleet flag from quotStar Trekquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"122 - Klingon flag from quotStar Trekquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"123 - Earth flag from quotFuturamaquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"124 - Helghast flag from quotKillzonequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"125 - Gallente flag from quotEvequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"126 - Amari flag from quotEvequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"127 - Caldari flag from quotEvequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"128 - Jove flag from quotEvequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"129 - Minmatar flag from quotEvequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"130 - KSP Painting.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"131 - Dice Flag from quotWheel of Timequot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"132 - Saturn.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"133 - Earth flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"134 - Kerbin flag green.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"135 - Kerbin flag blue.jpg",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"136 - Kerbin flag black.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"137 - KerbX.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"138 - Krussia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"139 - Ameristralia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"140 - Norwegian Naval standard.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"141 - Norwegian Airforce Standard.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"142 - Swedish Royal Standard.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"143 - Nordland.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"144 - Norway-Sweden flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"145 - Kiith Gaalsien from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"146 - Kiith Manaan from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"147 - Kiith Naabal from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"148 - Kiith Paktu from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"149 - Kiith Sjet from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"150 - Kiith Soban from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"151 - Kiith Somtaaw from quotHomeworldquot.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"152 - Koalafornia.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"153 - Lunar Republic from MLP.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"154 - Marathon flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"155 - Reddit flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"156 - Periwinkle.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"157 - Orangered.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"158 - Fox flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"159 - Anglosphere flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"160 - Krikler7039s UK flag.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"161 - Krikler7039s UK flag fixed for Wales.png",
+            "install_to":"GameData/Squad/Flags/"
+        },
+        {
+            "file":"162 - Communist Netherlands.png",
+            "install_to":"GameData/Squad/Flags/"
+        }
+    ]
+}
